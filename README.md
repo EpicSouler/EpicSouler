@@ -16,4 +16,4 @@ local function UpdateCamera()
     end
 end
 
-game:GetService("RunService").RenderStepped:Connect(UpdateCamera)\
+game:GetService("RunService").RenderStepped:Connect(UpdateCamera)
